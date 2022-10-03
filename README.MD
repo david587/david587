@@ -14,6 +14,16 @@ I like improve my skills,knowledge throught projects and tutorials.
 
 Coding time:
 <!--START_SECTION:waka-->
+
+```text
+PHP              4 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.37 %
+HTML             4 hrs 48 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
+Blade Template   3 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+CSS              1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Bash             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left">
