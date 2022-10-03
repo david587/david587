@@ -10,6 +10,7 @@ I like improve my skills,knowledge throught projects and tutorials.
 - 🧠 I’m currently working on :
 `Laravel project (Workpost management website)`:
 
+Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Coding time:
