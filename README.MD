@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning, web development
 -Im a student who interested in IT, and love develope my skills.
-I like improve my skills,knowledge throught projects and tutorials. 
+I like improve my knowledge throught projects and tutorials. 
 - 🏫 I’m going to finish school at:
 `Next year (2023.05.20)`:
 - 🧠 I’m currently working on :
