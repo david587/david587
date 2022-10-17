@@ -3,8 +3,8 @@
 `Digital Craftsman (It student)`
 
 - 🌱 I’m currently learning, web development
--Im a student who interested in IT, and love develope my skills.
-I like improve my knowledge throught projects and tutorials. 
+-I'm a student who is interested in IT, and I love developing my skills.
+I like improving my knowledge through projects and tutorials.
 - 🏫 I’m going to finish school at:
 `Next year (2023.05.20)`:
 - :space_invader: I’m currently working on :
@@ -43,7 +43,6 @@ Github Stats:
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
