@@ -11,7 +11,7 @@ I like improving my knowledge through projects and tutorials.
 `Laravel project (Workpost management website)`:
 - 🧠 I’m currently learning: React and Laravel;
 
-Coding time:
+Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```text
