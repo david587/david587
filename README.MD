@@ -2,8 +2,10 @@
 
 `Digital Craftsman (It student)`
 
-- 🌱 I’m currently learning, web development
--I'm a student who is interested in IT, and I love developing my skills.
+- 🌱 I consider myself a motivated
+person with clear goals,
+persistence and strive for
+development.
 I like improving my knowledge through projects and tutorials.
 - 🏫 I’m going to finish school at:
 `Next year (2023.05.20)`:
