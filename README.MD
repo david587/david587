@@ -17,12 +17,12 @@ Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       4 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-TypeScript       4 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-Python           3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-PHP              3 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-CSS              44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+PHP              4 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+TypeScript       4 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+Python           3 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+JavaScript       3 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
 JSON             32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
