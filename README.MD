@@ -18,12 +18,12 @@ Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```text
-Python           4 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.68 %
-PHP              4 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   37.78 %
-Blade Template   1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-JavaScript       51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python           8 hrs 12 mins   ██████████████▓░░░░░░░░░░   58.55 %
+PHP              2 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+JavaScript       1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Blade Template   1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
