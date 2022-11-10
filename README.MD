@@ -18,11 +18,10 @@ Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```text
-Python       25 hrs 13 mins  █████████████████████▒░░░   85.14 %
-JavaScript   4 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       21 hrs 25 mins  ███████████████████░░░░░░   75.42 %
+JavaScript   6 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+CSS          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
