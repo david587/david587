@@ -12,7 +12,7 @@ I like improving my knowledge through projects and tutorials.
 - :space_invader: Just finished: `Laravel project (Workpost management website)`:
 - :space_invader: I’m currently working on :
 `Designer-Personal website`
-- 🧠 I’m currently learning: `React && Angular ,Laravel && NodeJs(Express)`;
+- 🧠 I’m currently learning: `React && Angular , Laravel && NodeJs(Express)`;
 
 Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
