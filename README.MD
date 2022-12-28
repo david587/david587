@@ -18,9 +18,9 @@ Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 20 mins  ███████████████████████▓░   94.04 %
-CSS          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JavaScript   8 hrs 11 mins   ██████████████████████▓░░   91.29 %
+CSS          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
