@@ -11,7 +11,7 @@ I like improving my knowledge through projects and tutorials.
 `2023.05.20`:
 - :space_invader: Just finished: `Laravel project (Workpost management website)`:
 - :space_invader: I’m currently working on :
-`Designer-Personal website & Webshop`
+`Gamer_Pheriperals_Webshop, stack(laravel,angular,mysql)`
 - 🧠 I’m currently learning: `React && Angular , Laravel && NodeJs(Express)`;
 
 Coding time: (Last 5 days)
