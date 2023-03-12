@@ -9,7 +9,7 @@ development.
 I like improving my knowledge through projects and tutorials.
 - 🏫 I’m going to finish school at:
 `2023.05.20`:
-- :space_invader: Just finished: `Personal Website`:
+- :space_invader: Just finished: `My dev Personal Website`,`Photography Personal website`:
 - :space_invader: I’m currently working on :
 `Gamer_Pheriperals_Webshop, stack(laravel,angular,mysql),Fotograph personal website`
 - 🧠 I’m currently learning: `React && Angular , Laravel && NodeJs(Express)`;
