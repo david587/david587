@@ -18,12 +18,12 @@ Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 35 mins   ████████████▒░░░░░░░░░░░░   49.28 %
-PHP          2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-HTML         2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-JSON         1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-JavaScript   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Bash         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript       9 hrs 9 mins    ████████████░░░░░░░░░░░░░   48.31 %
+PHP              2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+HTML             2 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+JSON             2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+JavaScript       1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Markdown         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
