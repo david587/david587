@@ -9,7 +9,7 @@ development.
 I like improving my knowledge through projects and tutorials.
 - 🏫 I’m going to finish school at:
 `2023.05.20`:
-- :space_invader: Just finished: `My dev Personal Website`,`Photography Personal website`,`Geardrop Pheriperal webshop`, `Konference signal mobile APP`, `Cypto scraping script`:
+- :space_invader: Just finished: `Photography Personal website`,`Geardrop Pheriperal webshop`, `Konference signal mobile APP`, `Cypto scraping script`:
 - :space_invader: I’m currently working on :
 `Newspapper Maker App`
 - 🧠 I’m currently learning: `React && Angular , Laravel && NodeJs(Express)`;
