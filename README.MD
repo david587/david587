@@ -28,6 +28,8 @@ Bash             15 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<a href="https://app.daily.dev/Daviis"><img src="https://api.daily.dev/devcards/1d7a085d7f5648e082847c00c86ac31a.png?r=vft" width="400" alt="Dávid's Dev Card"/></a>
+
 Github Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
