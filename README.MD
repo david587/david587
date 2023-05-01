@@ -33,7 +33,7 @@ Bash             15 mins         ▒░░░░░░░░░░░░░░�
     <img src="https://api.daily.dev/devcards/1d7a085d7f5648e082847c00c86ac31a.png?r=vft" width="200" alt="Dávid's Dev Card">
   </a>
   <a href="https://github.com/david587">
-    <img src="https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight" width="630">
+    <img src="https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight" width="620">
   </a>
 </p>
 
@@ -45,6 +45,7 @@ Bash             15 mins         ▒░░░░░░░░░░░░░░�
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/david587?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
   </a>
 </p>
+
 
 
 
