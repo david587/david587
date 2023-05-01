@@ -30,10 +30,10 @@ Bash             15 mins         ▒░░░░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://app.daily.dev/Daviis">
-    <img src="https://api.daily.dev/devcards/1d7a085d7f5648e082847c00c86ac31a.png?r=vft" width="100" alt="Dávid's Dev Card">
+    <img src="https://api.daily.dev/devcards/1d7a085d7f5648e082847c00c86ac31a.png?r=vft" width="200" alt="Dávid's Dev Card">
   </a>
   <a href="https://github.com/david587">
-    <img src="https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight" width="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight" width="600">
   </a>
 </p>
 
