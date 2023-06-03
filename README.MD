@@ -17,7 +17,7 @@ I like improving my knowledge through projects and tutorials.
 Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Blade Template   4 hrs 9 mins    ███████████▒░░░░░░░░░░░░░   45.49 %
 PHP              2 hrs 57 mins   ████████░░░░░░░░░░░░░░░░░   32.32 %
 CSS              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
