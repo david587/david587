@@ -1,6 +1,6 @@
 💻David587
 
-`Digital Craftsman (It student)`
+`Digital Craftsman (Fullstack Developer)`
 
 - 🌱 I consider myself a motivated
 person with clear goals,
