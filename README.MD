@@ -11,8 +11,7 @@ I like improving my knowledge through projects and tutorials.
 `2023.05.20`:
 - :space_invader: Just finished: `Photography Personal website`,`Geardrop Pheriperal webshop`, `Konference signal mobile APP`, `Cypto scraping script`:
 - :space_invader: I’m currently working on :
-`Newspapper Maker App, Project Management`
-- 🧠 I’m currently learning: `React && Angular , Laravel && NodeJs(Express)`;
+`identiGO`
 
 Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
