@@ -9,7 +9,6 @@ development.
 I like improving my knowledge through projects and tutorials.
 - 🏫 Finished school at:
 `2023.05.20`:
-- :space_invader: Just finished: `Photography Personal website`,`Geardrop Pheriperal webshop`, `Konference signal mobile APP`, `Cypto scraping script`:
 - :space_invader: I’m currently working on :
 `identiGO`
 
