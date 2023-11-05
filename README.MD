@@ -16,11 +16,11 @@ Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   13 hrs 46 mins  ████████████▒░░░░░░░░░░░░   49.72 %
-PHP              5 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-HTML             4 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-TypeScript       2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Bash             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Blade Template   14 hrs 13 mins  ████████████▒░░░░░░░░░░░░   49.85 %
+PHP              6 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+HTML             5 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+TypeScript       2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
