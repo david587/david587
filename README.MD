@@ -10,7 +10,7 @@ I like improving my knowledge through projects and tutorials.
 - 🏫 Finished school at:
 `2023.05.20`:
 - :space_invader: I’m currently working on :
-`IF. workout app`
+`Webshop`
 
 Coding time: (Last 5 days)
 <!--START_SECTION:waka-->
