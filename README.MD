@@ -24,14 +24,7 @@ JavaScript       0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <a href="https://app.daily.dev/Daviis">
-    <img src="https://api.daily.dev/devcards/1d7a085d7f5648e082847c00c86ac31a.png?r=vft" width="200" alt="Dávid's Dev Card">
-  </a>
-  <a href="https://github.com/david587">
-    <img src="https://github-readme-stats.vercel.app/api?username=david587&theme=tokyonight" width="640">
-  </a>
-</p>
+<a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?r=8cx&type=wide" width="652" alt="Dávid's Dev Card"/></a>
 
 <p align="center">
   <a href="https://github.com/david587?tab=followers">
