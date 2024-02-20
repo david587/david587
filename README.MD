@@ -9,7 +9,7 @@ development.
 I like improving my knowledge through projects and tutorials.
 - 🏫 Finished school at:
 `2023.05.20`:
-- :space_invader: I’m currently working on :
+- :space_invader: Free time project :
 `Webshop`
 
 Coding time: (Last 5 days)
