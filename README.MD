@@ -24,20 +24,7 @@ JavaScript       0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?r=8cx&type=wide" width="652" alt="Dávid's Dev Card"/></a>
-
-<p align="center">
-  <a href="https://github.com/david587?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/david587?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white">
-  </a>
-  <a href="https://github.com/david587?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/david587?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
-  </a>
-</p>
-
-
-
-
+<a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?type=default&r=7vw" width="356" alt="Dávid's Dev Card"/></a>
 
 🧰 Languages and Tools
 
