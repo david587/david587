@@ -12,7 +12,7 @@ I like improving my knowledge through projects and tutorials.
 - :space_invader: Free time project :
 `Webshop`
 
-Coding time: (Last 5 days)
+Coding time: (Last 7 days)
 <!--START_SECTION:waka-->
 
 ```txt
