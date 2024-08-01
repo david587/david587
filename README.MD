@@ -16,7 +16,10 @@ Coding time: (Last 7 days)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blade Template   5 hrs 11 mins   ███████████████████████▒░   93.71 %
+PHP              13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
