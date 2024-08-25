@@ -10,7 +10,7 @@ I like improving my knowledge through projects and tutorials.
 - 🏫 Finished school at:
 `2023.05.20`:
 - :space_invader: Free time projects :
-`Webshop, Personal websites`
+`Webshop, Admin panel, Personal websites`
 
 Coding time: (Last 7 days)
 <!--START_SECTION:waka-->
