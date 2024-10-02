@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-I am a highly motivated fullstack developer with clear goals, persistence, and a constant drive for growth. I thrive on learning through practical experience—whether by working on my own projects or exploring tutorials to expand my skill set.
+I am a highly motivated with clear goals, persistence, and a constant drive for growth. I thrive on learning through practical experience—whether by working on my own projects or exploring tutorials to expand my skill set.
 
 ---
 
@@ -28,17 +28,19 @@ In my free time, I enjoy working on various personal projects to challenge mysel
 
 ### 🧰 Languages and Tools
 
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg) &nbsp;&nbsp;
-![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg) &nbsp;&nbsp;
-![Livewire](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg) &nbsp;&nbsp;
-![Alpine.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg) &nbsp;&nbsp;
-![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg) &nbsp;&nbsp;
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) &nbsp;&nbsp;
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) &nbsp;&nbsp;
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) &nbsp;&nbsp;
-![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg) &nbsp;&nbsp;
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) &nbsp;&nbsp;
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)
+<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="livewire" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
+<img align="left" alt="alpine js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+<img align="left" alt="jquery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
+<img align="left" alt="type script" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Tailwind css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+<br />
 
 ---
 
