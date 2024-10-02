@@ -12,16 +12,6 @@ I like improving my knowledge through projects and tutorials.
 - :space_invader: Free time projects :
 `Webshop, Admin panel, Personal websites`
 
-Coding time: (Last 7 days)
-<!--START_SECTION:waka-->
-
-```txt
-Blade Template   47 mins         ████████████████████████▓   98.28 %
-PHP              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-```
-
-<!--END_SECTION:waka-->
-
 <a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?type=default&r=7vw" width="356" alt="Dávid's Dev Card"/></a>
 
 🧰 Languages and Tools
