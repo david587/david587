@@ -12,7 +12,7 @@ I like improving my knowledge through projects and tutorials.
 - :space_invader: Free time projects :
 `Webshop, Admin panel, Personal websites`
 
-<a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?type=default&r=7vw" width="356" alt="Dávid's Dev Card"/></a>
+<a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?type=wide&r=zdm" width="652" alt="Dávid's Dev Card"/></a>
 
 🧰 Languages and Tools
 
