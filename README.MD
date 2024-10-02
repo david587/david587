@@ -1,36 +1,45 @@
-💻David587
+# 💻 David587
 
-`Fullstack Developer at identiGO`
+**`Fullstack Developer at identiGO`**
 
-- 🌱 I consider myself a motivated
-person with clear goals,
-persistence and strive for
-development.
-I like improving my knowledge through projects and tutorials.
-- 🏫 Finished school at:
-`2023.05.20`:
-- :space_invader: Free time projects :
-`Webshop, Admin panel, Personal websites`
+---
+
+### 🌟 About Me
+
+I am a highly motivated fullstack developer with clear goals, persistence, and a constant drive for growth. I thrive on learning through practical experience—whether by working on my own projects or exploring tutorials to expand my skill set.
+
+---
+
+### 🏫 Education
+
+**Graduated:**  
+**Date:** `May 20, 2023`
+
+---
+
+### 🚀 Projects
+
+In my free time, I enjoy working on various personal projects to challenge myself and refine my skills:
+- `Webshop`
+- `Admin Panel`
+- `Personal Websites`
+
+---
+
+### 🧰 Languages and Tools
+
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg) &nbsp;&nbsp;
+![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg) &nbsp;&nbsp;
+![Livewire](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg) &nbsp;&nbsp;
+![Alpine.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg) &nbsp;&nbsp;
+![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg) &nbsp;&nbsp;
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) &nbsp;&nbsp;
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) &nbsp;&nbsp;
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) &nbsp;&nbsp;
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg) &nbsp;&nbsp;
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) &nbsp;&nbsp;
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)
+
+---
 
 <a href="https://app.daily.dev/daviis"><img src="https://api.daily.dev/devcards/v2/Fot972DMOXawTESzwwtCm.png?type=wide&r=zdm" width="652" alt="Dávid's Dev Card"/></a>
-
-🧰 Languages and Tools
-
-<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="livewire" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
-<img align="left" alt="alpine js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
-<img align="left" alt="jquery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
-<img align="left" alt="type script" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Tailwind css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-<br />
-
-#
-
