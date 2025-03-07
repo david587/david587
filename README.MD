@@ -1,6 +1,6 @@
 # 💻 David587
 
-**`Fullstack Developer at identiGO`**
+**`Full-stack Developer at identiGO`**
 
 ---
 
