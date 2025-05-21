@@ -20,7 +20,7 @@ I'm a goal-driven full-stack developer passionate about continuous learning and 
 
 A few highlights from my recent development work:
 
-- [**Stitch Revolt Webshop**](https://stitchrevolt.hu) – Custom eCommerce platform built with Laravel and Livewire, focused on usability, and admin-friendly management tools.  
+- [**StitchRevolt Webshop**](https://stitchrevolt.hu) – Custom eCommerce platform built with Laravel and Livewire, focused on usability, and admin-friendly management tools.  
 - [**Hanna Picture Collection**](https://hannapicturecollection.hu) – React-based portfolio and booking website for a photography service. Features include responsive design, contact forms, and dynamic package selection. 
 - [**Fonlak**](https://fonlak.hu) – Elegant and responsive website for a hair braiding service, built with Laravel and Livewire.
 ---
