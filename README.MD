@@ -11,8 +11,9 @@ I'm a goal-driven full-stack developer passionate about continuous learning and 
 
 ### 🎓 Education
 
-**Graduation Date:**  
-`May 20, 2023`
+**Budapest Külkereskedelmi Technikum**  
+_Software Developer & Tester_  
+**Graduation Date:** `May 20, 2023`
 
 ---
 
