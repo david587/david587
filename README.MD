@@ -1,5 +1,5 @@
 # 💻 David587  
-**Full-Stack Developer @ identiGO**
+**Full-Stack Developer @identiGO**
 
 ---
 
